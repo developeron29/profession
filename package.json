@@ -1,0 +1,23 @@
+{
+ "author": "ayush narula",
+ "name": "profession",
+ "description": "Application to find professions stated by a person in a text/tweet/User descriptions",
+ "version": "0.0.4",
+ "repository":{
+  "url": ""
+},
+"profession": "./lib/profession",
+"main": "./lib/profession.js",
+"bin": {
+"profession": "./bin/profession"
+},
+"dependencies": {
+"underscore": "*"
+},
+ "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+   "license": "BSD-2-Clause"
+}
