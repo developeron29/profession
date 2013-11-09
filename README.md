@@ -29,4 +29,4 @@ profession.extract('I am a painTEr , an Artist and I forgot, a ZookEEper too');
 
 ### License
 
-(BSD-2-Clause)[http://opensource.org/licenses/BSD-2-Clause]
+[BSD-2-Clause](http://opensource.org/licenses/BSD-2-Clause)
