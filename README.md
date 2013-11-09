@@ -16,3 +16,4 @@ Output:
 [Ayush Narula](http://ayushnarula.com)
 
 ## license
+[BSD](http://opensource.org/licenses/BSD-2-Clause)
