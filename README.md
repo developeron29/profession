@@ -1,24 +1,3 @@
-<<<<<<< HEAD
-### Extract professions/interests stated by users in a text/tweet/user description.
-
-### Usage 
-```
-var profession = require('profession');
-br
-profession.extract('I am a Painter , ARtisT, Zookeeper');
-
-Output:
-//['painter','artist','zookeeper']
-
-```
-
-## author
-
-[Ayush Narula](http://ayushnarula.com)
-
-## license
-[BSD](http://opensource.org/licenses/BSD-2-Clause)
-=======
 profession
 ==========
 
@@ -49,4 +28,5 @@ profession.extract('I am a painTEr , an Artist and I forgot, a ZookEEper too');
 [Ayush Narula](http://ayushnarula.com)
 
 ### License
->>>>>>> 4060d15f5459df586693db9a4657accc2769288b
+
+(BSD-2-Clause)[http://opensource.org/licenses/BSD-2-Clause]
