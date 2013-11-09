@@ -5,7 +5,7 @@ NPM Package to extract professions from text/tweets/user descriptions. #DataAnal
 
 ###Dependecies
 
-[Underscore](http://underscorejs.com)
+[Underscore](http://underscorejs.org)
 
 ###Install 
 
