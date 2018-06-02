@@ -3,15 +3,15 @@ profession
 
 NPM Package to extract professions from text/tweets/user descriptions. #DataAnalysis
 
-###Dependecies
+## Dependecies
 
 [Underscore](http://underscorejs.org)
 
-###Install 
+## Install 
 
 sudo npm install profession
 
-### Usage
+## Usage
 
 ```javascript
 
